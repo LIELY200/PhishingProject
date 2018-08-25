@@ -1,0 +1,7 @@
+.Python
+bin/
+graphs/
+include/
+lib/
+pip-selfcheck.json
+*.sublime-project

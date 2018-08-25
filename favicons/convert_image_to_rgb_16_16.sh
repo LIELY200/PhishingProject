@@ -1,0 +1,1 @@
+convert -size "16x16" -depth 8 icon.png icon.rgb

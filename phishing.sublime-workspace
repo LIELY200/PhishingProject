@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Th",
+				"THRESHOLD"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"num_",
+				"num_of_features"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"ma",
+				"marketing"
+			],
+			[
+				"mark",
+				"_marketing"
+			],
+			[
+				"_",
+				"_engDepartment"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"Ma",
+				"Marketing"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"_m",
+				"_managerEngineering"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"s",
+				"setX"
+			],
+			[
+				"ba",
+				"_ball"
+			],
+			[
+				"d",
+				"distance"
+			],
+			[
+				"Ba",
+				"BallGame"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"n",
+				"newY"
+			],
+			[
+				"ball",
+				"ball_point"
+			],
+			[
+				"re",
+				"RegularAccount"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"name",
+				"_name"
+			],
+			[
+				"p",
+				"person"
+			],
+			[
+				"ge",
+				"getSalary"
+			],
+			[
+				"nam",
+				"_name"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"for",
+				"foward_list"
+			],
+			[
+				"SHA",
+				"SHANI_AND_OFER"
+			],
+			[
+				"t",
+				"Total_buying_price"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"cl",
+				"client_l_name"
+			],
+			[
+				"to",
+				"Total_buying_price"
+			],
+			[
+				"cli",
+				"client_f_name"
+			],
+			[
+				"P",
+				"PelephoneNum"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"udp-server",
+				"Udp-Server"
+			],
+			[
+				"count",
+				"countRedNodes"
+			],
+			[
+				"coun",
+				"countRedNodes"
+			],
+			[
+				"Re",
+				"RedBlackNode"
+			],
+			[
+				"rot",
+				"rotateLeftLeft"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"grand",
+				"grandfather"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "phishing_classifier.py",
+			"settings":
+			{
+				"buffer_size": 7049,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sapirelmakayes/development/cpp/cpp.sublime-project",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lg_phishing_classifier.py",
+			"settings":
+			{
+				"buffer_size": 5233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "new fil",
+		"selected_items":
+		[
+			[
+				"new fil",
+				"ANF: New File"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"ne",
+				"ANF: New File"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"newFol",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"nre",
+				"File: New File Relative to Current View"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"mve",
+				"File: Move"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ed",
+				"Project: Edit Project"
+			],
+			[
+				"ss: ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"new pro",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"ss: x",
+				"Set Syntax: XML"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"ss: ja",
+				"Set Syntax: Java"
+			],
+			[
+				"ss: java",
+				"Set Syntax: Java"
+			],
+			[
+				"ss: c",
+				"Set Syntax: C"
+			],
+			[
+				"ss:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss: ass",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"ss:a",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"ss: b",
+				"Set Syntax: Batch File"
+			],
+			[
+				"ss: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"ss:nasm",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sapirelmakayes/development/tensorFlow"
+	],
+	"file_history":
+	[
+		"/Users/sapirelmakayes/development/tensorFlow/.gitignore",
+		"/Users/sapirelmakayes/development/tensorFlow/phishing.sublime-project",
+		"/Users/sapirelmakayes/development/tensorFlow/basic_lr.py",
+		"/Users/sapirelmakayes/Documents/C++_ex1/204263370/1.3/foot_ball.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/department.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/department.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/organization.h",
+		"/Users/sapirelmakayes/Documents/C++_ex1/204263370/1.3/ball.h",
+		"/Users/sapirelmakayes/Documents/C++_ex1/204263370/1.3/ball.cpp",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/department.cpp",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/ceo.cpp",
+		"/Users/sapirelmakayes/Desktop/204263370/1.3/foot_ball.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.3/foot_ball.cpp",
+		"/Users/sapirelmakayes/Desktop/204263370/1.3/ball.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.3/ball_game.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.2/regular_account.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.2/person.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.2/gold_account.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.2/account.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/worker.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/organization.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/marketing.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/marketing.cpp",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/engineering.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/manager.h",
+		"/Users/sapirelmakayes/Desktop/204263370/1.1/department.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/worker.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/main.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/gold_account.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/regular_account.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/gold_account.h",
+		"/Users/sapirelmakayes/development/cpp/1.2/person.h",
+		"/Users/sapirelmakayes/development/cpp/1.2/regular_account.h",
+		"/Users/sapirelmakayes/development/cpp/1.3/foot_ball.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.3/ball.h",
+		"/Users/sapirelmakayes/development/cpp/1.2/account.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/organization.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/worker.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/marketing.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/marketing.h",
+		"/Users/sapirelmakayes/development/cpp/build.sh",
+		"/Users/sapirelmakayes/development/cpp/1.1/engineering.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/engineering.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.3/foot_ball.h",
+		"/Users/sapirelmakayes/development/cpp/1.3/point.h",
+		"/Users/sapirelmakayes/development/cpp/1.3/ball_game.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.3/ball_game.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/ceo.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/main.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/ceo.h",
+		"/Users/sapirelmakayes/development/cpp/foot_ball.cpp",
+		"/Users/sapirelmakayes/development/cpp/foot_ball.h",
+		"/Users/sapirelmakayes/development/cpp/ball_game.cpp",
+		"/Users/sapirelmakayes/development/cpp/ball_game.h",
+		"/Users/sapirelmakayes/development/cpp/ball.h",
+		"/Users/sapirelmakayes/development/cpp/ball.cpp",
+		"/Users/sapirelmakayes/development/cpp/point.h",
+		"/Users/sapirelmakayes/development/cpp/point.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/account.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.2/person.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/manager.cpp",
+		"/Users/sapirelmakayes/development/cpp/1.1/manager.h",
+		"/Users/sapirelmakayes/development/cpp/cpp.sublime-project",
+		"/Users/sapirelmakayes/development/cpp/1.1/Worker.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/Manager.h",
+		"/Users/sapirelmakayes/development/cpp/1.1/Worker.cpp",
+		"/Users/sapirelmakayes/development/cpp/CEO.h",
+		"/Users/sapirelmakayes/development/cpp/Worker.cpp",
+		"/Users/sapirelmakayes/development/cpp/Manager.h",
+		"/Users/sapirelmakayes/development/cpp/Worker.h",
+		"/Users/sapirelmakayes/development/cpp/min_max_elements.cpp",
+		"/Users/sapirelmakayes/development/cpp/ex5_a.cpp",
+		"/Users/sapirelmakayes/development/cpp/ex6_a.cpp",
+		"/Users/sapirelmakayes/development/cpp/ex5.cpp",
+		"/Users/sapirelmakayes/development/cpp/mul_elements.cpp",
+		"/Users/sapirelmakayes/development/cpp/main.cpp",
+		"/Users/sapirelmakayes/development/python/myFirst.py",
+		"/Users/sapirelmakayes/Downloads/öòÇÖå - öÑåâãÖêâç - öôÖÅÖö/Q2/SharedStructure.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/תשובות גיל/Q1/OddEvenSync.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/JAVA code/observer/ObserverDemo1.java",
+		"/Users/sapirelmakayes/Downloads/öòÇÖå - öÑåâãÖêâç - öôÖÅÖö/Q1/OddEven.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/204263370-0/Shopping.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/204263370-0/Item.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/JAVA code/observer/ObserverDemo4.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/JAVA code/observer/ObserverDemo3.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/JAVA code/observer/ObserverDemo2.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/204263370-0/Producer.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/204263370-0/Store.java",
+		"/Users/sapirelmakayes/Downloads/204263370-0/Producer.java",
+		"/Users/sapirelmakayes/Downloads/src-2/cooperation/SenderReceiverCooperation.java",
+		"/Users/sapirelmakayes/Downloads/src-2/cooperation/SenderReceiverMutex.java",
+		"/Users/sapirelmakayes/Downloads/src-2/threads/ThreadVsRunnable.java",
+		"/Users/sapirelmakayes/Downloads/src-2/synchronizationTime/SynchronizedBlockTime.java",
+		"/Users/sapirelmakayes/Downloads/src-2/synchronization/WithoutSynch.java",
+		"/Users/sapirelmakayes/Downloads/src-2/synchronization/SynchronizedMethod.java",
+		"/Users/sapirelmakayes/Downloads/src-2/senderReceiver/SenderReceiver.java",
+		"/Users/sapirelmakayes/Downloads/src-2/threads/CallRunInsteadOfStart.java",
+		"/Users/sapirelmakayes/Downloads/מונחה עצמים/éÖêáÑ íñéâç/óÖÉâç ÄåâÜÅà/Lesson_12_DesignPatterns/Observer/MessageBoard.java",
+		"/Users/sapirelmakayes/Downloads/27 June 2017/exam2015a/Question2.java",
+		"/Users/sapirelmakayes/Desktop/XML/Main.java",
+		"/Users/sapirelmakayes/Desktop/XML/204263370_204541510_XSD.xml",
+		"/Users/sapirelmakayes/Desktop/XML/204263370_204541510_xml.xml",
+		"/Users/sapirelmakayes/Downloads/weight_FW/FloydWarshallWeights.java",
+		"/Users/sapirelmakayes/Downloads/weight_FW/VertWeight2EdgeWeight.java",
+		"/Users/sapirelmakayes/Downloads/FloydWarshall/FloydWarshallBooleanCODE.java",
+		"/Users/sapirelmakayes/Desktop/XML/204263370.xml",
+		"/Users/sapirelmakayes/Desktop/XML/204263370_XSD.xml",
+		"/Users/sapirelmakayes/Desktop/WS/JavaEx.java",
+		"/Users/sapirelmakayes/Desktop/WS/syn_flood.c",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1FED38CD-8B9B-4BA4-B915-924B1FC86C23/liel.c",
+		"/Users/sapirelmakayes/Desktop/WS/WS.c",
+		"/Users/sapirelmakayes/Desktop/WS/sapir",
+		"/Users/sapirelmakayes/Downloads/tfn2k/src/tribe.h",
+		"/Users/sapirelmakayes/Downloads/tfn2k/src/flood.c",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/263FF162-783D-40FC-9305-2248801C8561/liel.c",
+		"/Users/sapirelmakayes/Downloads/tfn2k/src/tribe.c",
+		"/Users/sapirelmakayes/Desktop/204541510_204263370/orders.java",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E9E5EAEC-16D1-44BF-80C6-1FF1DC6FCD0B/טבלאות.sql",
+		"/Users/sapirelmakayes/Desktop/script.sql",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/73EEE463-A6AD-46ED-BF7C-76AC9D16EB90/הכנסתפרטים.sql",
+		"/Users/sapirelmakayes/Desktop/Aguda",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/2908BCCF-0372-4ED9-BFC1-4DE2F93B75CC/שאלה3ץ3.sql",
+		"/Users/sapirelmakayes/Desktop/WS/sapir elmakayes",
+		"/Users/sapirelmakayes/Desktop/OS/EX1.204263370.204541510.c",
+		"/Users/sapirelmakayes/Desktop/OS/ifnelse.c",
+		"/Users/sapirelmakayes/Desktop/OS/EX1.c",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/DD678E1C-4DE1-4D24-B930-716BB5C469FC/Dispetcher.java",
+		"/Users/sapirelmakayes/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/8BBE4AFA-B552-4A76-9509-1D37376B495C/DispetcherClient.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"validation_correct_guesses",
+			"testData",
+			"traning_data",
+			"testData",
+			"avg_mistake",
+			"%)\"",
+			"test_data",
+			"training_correct_guesses",
+			"correct_guesses",
+			"_",
+			"testData",
+			"test_rows",
+			"testData",
+			"HIDDEN_LAYERS_NUM",
+			"testData",
+			"sigmoid",
+			"generateClassifier",
+			"generateNeClassifier"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "phishing_classifier.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/sapirelmakayes/development/cpp/cpp.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lg_phishing_classifier.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3929,
+								3944
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Build",
+	"project": "phishing.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"basic",
+				"basic_lr.py"
+			],
+			[
+				"marketing",
+				"1.1/marketing.cpp"
+			],
+			[
+				"bu",
+				"build.sh"
+			],
+			[
+				"ex",
+				"Ex2 2.java"
+			],
+			[
+				"ex2",
+				"Ex2 2.java"
+			],
+			[
+				"re",
+				"RedBlackNode.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
